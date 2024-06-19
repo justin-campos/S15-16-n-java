@@ -63,8 +63,8 @@ eventos.
 #### _Casos de Prueba:_
   https://docs.google.com/spreadsheets/d/1BaYJ1tcCQacHgO132OTRXhtYjiQxP8AGR0dtYGDpLgo/edit?usp=drive_link
 
-#### _Informes:_
-  https://
+#### _Gráficos:_
+  https://drive.google.com/drive/folders/1g4UslXJMmYhPUyASTYpzzOV3km8qPkgE?usp=drive_link
 
 ## 🎨 Evidencia UX/UI
 #### _Diseño en Figma_
